@@ -1,7 +1,7 @@
 ## Olá, Seja Bem-Vindo(a), Eu sou o Gabriel Lopes! 🤗
 ### Formas de contato: ☎️<br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lorente-lopes-3169a52a6/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_lopess.gabriel/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriel.lopesz//)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrilopes12&theme=dark&show_icons=true)
 
